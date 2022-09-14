@@ -1,0 +1,6 @@
+framework module SCLibs {
+  umbrella header "SCLibs-umbrella.h"
+
+  export *
+  module * { export * }
+}
